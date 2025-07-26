@@ -1,4 +1,4 @@
-## Gemini Chat Application
+## Conversational AI Bot 
 
 A simple AI-powered chatbot web application built using Flask (Python) for the backend and HTML/CSS/JavaScript (with jQuery) for the frontend. It uses Google Gemini (Generative AI) for generating chat responses.
 
